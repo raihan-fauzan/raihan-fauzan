@@ -10,7 +10,7 @@ I'm an early-career IT professional with background in **system implementation**
 - **System Development & Implementation**: User Requirements Gathering, Functional Specification Development, User Acceptance Testing, API Testing, Feature Implementation & Support.
 
 ## Tools:
-Excel | SQL | Python | Tableau | ERP/DMS System | SAP (ABAP)
+`Excel` | `SQL` | `Python` | `Tableau` | `ERP/DMS System` | `SAP (ABAP)`
 
 
 
